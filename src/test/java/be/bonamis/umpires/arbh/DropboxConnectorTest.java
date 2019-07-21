@@ -1,3 +1,4 @@
+/*
 package be.bonamis.umpires.arbh;
 
 import org.junit.Before;
@@ -42,3 +43,4 @@ public class DropboxConnectorTest {
         //assertNotNull(dropboxConnector.getFile(decoded));
     }
 }
+*/
